@@ -52,7 +52,8 @@
 > 已经换行
     
 ## 图片
-![图片链接][http://www.baidu.com/test.jpg]
+![图片链接](http://www.baidu.com/test.jpg)
+![Alt text](https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/logo/bd_logo1_31bdc765.png "Optional title")
 
 ## 程序引用
 ```php

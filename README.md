@@ -14,7 +14,7 @@
 `加块显示`
 
 ## 链接
-[baidu][http://www.baidu.com]  
+[google](http://www.google.com)  
 
 ## 列表
 
@@ -52,7 +52,7 @@
 > 已经换行
     
 ## 图片
-![Alt text](https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/logo/bd_logo1_31bdc765.png "Optional title")
+![Alt text](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png "Optional title")
 
 ## 程序引用
 ```php
@@ -61,3 +61,11 @@
 	    echo "hello world!";
     }
 ```
+
+## 表格：
+
+Item     | Value
+-------- | ---
+Computer | $1600
+Phone    | $12
+Pipe     | $1
